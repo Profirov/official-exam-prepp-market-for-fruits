@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "official exam prepp market for fruits", "official exam prepp market for fruits\official exam prepp market for fruits.csproj", "{D6D66342-2159-47AD-B9CE-56D3E140CD35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "family trip", "family trip\family trip.csproj", "{9A505733-DE67-4782-8FE0-9157B3C39D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D66342-2159-47AD-B9CE-56D3E140CD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D66342-2159-47AD-B9CE-56D3E140CD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D66342-2159-47AD-B9CE-56D3E140CD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D66342-2159-47AD-B9CE-56D3E140CD35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A505733-DE67-4782-8FE0-9157B3C39D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A505733-DE67-4782-8FE0-9157B3C39D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A505733-DE67-4782-8FE0-9157B3C39D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A505733-DE67-4782-8FE0-9157B3C39D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EF3133-1183-49A3-B6E1-8B09E73AFE06}
+	EndGlobalSection
+EndGlobal
